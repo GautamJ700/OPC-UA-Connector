@@ -2,7 +2,7 @@
 
 **THIS IS A PRE-RELEASE WITH KNOWN LIMITATIONS, SEE DOCS FOR MORE INFO**
 
-Please see [OPC UA Connector](https://docs.mendix.com/appstore/connectors/opc-ua) in the Mendix documentation for details.
+Please see [OPC UA Connector](https://docs.mendix.com/appstore/modules/opc-ua-connector/) in the Mendix documentation for details.
 
 
 ## Upgrade to Mx9
